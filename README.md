@@ -10,7 +10,7 @@
 
 ## Project Overview
 The Furniture Sales analysis is an end-to-end Excel project designed to track and visualize furniture sales across different U.S regions,
-uncovering trends, and highlighting performance
+uncovering trends, and highlighting performance.
 
 
 ## Tools Used
