@@ -7,10 +7,10 @@
 - [KPIs](#kpis)  
 - [Insights](#insights)
 - [Data Snapshots](#data-snapshots)
-- [Conclusion](#conclusion)
 
 ## Project Overview
-The Furniture Sales analysis is an end-to-end Excel project designed to track and visualize furniture sales across different U.S. regions.
+The Furniture Sales analysis is an end-to-end Excel project designed to track and visualize furniture sales across different U.S regions,
+uncovering trends, and highlighting performance
 
 
 ## Tools Used
@@ -24,12 +24,12 @@ Pivot Table & Pivot Chart creation
 - Quantity (with YoY % growth)
 
 ## Insights
-- Shipping mode
-- Highest sales from category
-- Monthly sales trends
-- Shopping duration
-- Shopping Distribution
-- Top selling city
+- Shipping mode: Standard class (59%)
+- Highest sales from category: Chairs ($328.4K)
+- Monthly sales trends: Peak sales month is December
+- Shipping duration: Most orders were delivered in 4days (28%)
+- Shipping Distribution by State
+- Top selling city: New York City ($75.7K)
 
   
 ## Slicer
@@ -37,9 +37,6 @@ Filter by Segment
 Filter by Region
 
 ## Data Snapshots
-![Dataset]()
-![Dataset]()
-![Dataset]()
-
-
-
+![Dataset](https://github.com/Ola-ykay/Furniture_Sales_Analysis/blob/main/furniture-dataset.png)
+![Calculation](https://github.com/Ola-ykay/Furniture_Sales_Analysis/blob/main/furniture-calc.png)
+![Dashboard](https://github.com/Ola-ykay/Furniture_Sales_Analysis/blob/main/furniture-dashboard.png)
