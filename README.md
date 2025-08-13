@@ -39,4 +39,4 @@ Filter by Region
 ## Data Snapshots
 ![Dataset](https://github.com/Ola-ykay/Furniture_Sales_Analysis/blob/main/furniture-dataset.png)
 ![Calculation](https://github.com/Ola-ykay/Furniture_Sales_Analysis/blob/main/furniture-calc.png)
-![Dashboard](https://github.com/Ola-ykay/Furniture_Sales_Analysis/blob/main/furniture-dashboard.png)
+![Dashboard](https://github.com/Ola-ykay/Furniture_Sales_Analysis/blob/main/furnitureSales-dashboard.png)
