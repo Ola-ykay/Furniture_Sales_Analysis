@@ -28,7 +28,7 @@ Pivot Table & Pivot Chart creation
 - Highest sales from category: Chairs ($328.4K)
 - Monthly sales trends: Peak sales month is December
 - Shipping duration: Most orders were delivered in 4days (28%)
-- Shipping Distribution by State
+- Shipping Distribution by State: California led with $156.1K
 - Top selling city: New York City ($75.7K)
 
   
